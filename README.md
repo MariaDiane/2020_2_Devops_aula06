@@ -24,3 +24,7 @@ Checkout<br>
 
 Fetch/Pull<br>
 1 - Checkout novamente na master, fetch para buscar as alterações do github e pull (print_10)<br>
+<br>
+Log/Insight<br>
+1 - Log contendo todos os commits na branch master(print_11)<br>
+2 - Print da tela do insight (print_12)<br>
